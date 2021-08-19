@@ -26,6 +26,8 @@ $ choco install zoomit
 | Shift + Click        | Arrastando desenha uma linha                                 |
 | Ctrl + Click         | Arrastando desenha uma retângulo                             |
 | Tab + Click          | Arrastando desenha um circulo                                |
+| Ctrl + c             | Faz uma cópia da tela e salva na área de transferência       |
+| Ctrl + s             | Salva uma cópia da tela como PNG                             |
 | Up Arrow             | Aumenta o zoom                                               |
 | Down Arrow           | Diminue o zoom                                               |
 | Espaço               | Volta o cursor para o centro da tela                         |
@@ -50,9 +52,6 @@ $ choco install zoomit
 | w      | Abre o quadro branco                               |
 | k      | Abre o quadro negro                                |
 | e      | Fecha o quadro branco/negro e limpa todos desenhos |
-
-Ctrl + C | Faz uma cópia da tela e salva na área de transferência
-Ctrl + S | Salva uma cópia da tela como PNG
 
 ## Video explicativo
 
