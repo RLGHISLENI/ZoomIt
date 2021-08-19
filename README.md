@@ -1,6 +1,6 @@
 # ZoomIt
 
-Descrição de como instalar e utilizar as funcionalidades utilizadas no programa [**ZoomIt**](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit) da Microsoft
+Descrição de como instalar e utilizar as funcionalidades do programa [**ZoomIt**](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit) da Microsoft
 
 ## Instalação
 
